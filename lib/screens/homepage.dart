@@ -1,14 +1,19 @@
 import 'package:flutter/material.dart';
 
+import '../utils/drawer.dart';
+
 class HomePage extends StatelessWidget {
+  const HomePage({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: Text('Caused Words')),
-      drawer: Drawer(),
+      appBar: AppBar(centerTitle: true, title: const Text('Caused Words')),
+      drawer: const OurDrawer(),
       body: Center(
+          // ignore: avoid_unnecessary_containers
           child: Container(
-        child: Text('Welcome to Cause Words'),
+        child: const Text('Cause Words'),
       )),
     );
   }
