@@ -17,8 +17,8 @@ class _LoginPageState extends State<LoginPage> {
 
   gettingData(BuildContext context) async {
     if (_formKey.currentState!.validate()) {
-      setState(() {
-        isbuttonclicked = true;
+       setState(() {
+       isbuttonclicked = true;
       });
       await Future.delayed(const Duration(seconds: 1));
       await Navigator.pushNamed(
@@ -102,9 +102,9 @@ class _LoginPageState extends State<LoginPage> {
                       height: 50,
                       alignment: Alignment.center,
                       child: isbuttonclicked
-                          ? const Icon(
+                          ? Icon(
                               Icons.done,
-                              color: Colors.green,
+                              color: Colors.blue.shade400,
                             )
                           : const Text('Login',
                               style: TextStyle(
@@ -114,9 +114,9 @@ class _LoginPageState extends State<LoginPage> {
                               )),
                       decoration: BoxDecoration(
                           color:
-                              isbuttonclicked ? Colors.transparent : Colors.green,
+                              isbuttonclicked ? Colors.transparent : Colors.blue.shade400,
                           border: Border.all(
-                            color: Colors.green,
+                            color: Colors.blue.shade400,
                             width: 1,
                           ),
                           borderRadius:

@@ -1,0 +1,351 @@
+{
+    "words": [
+        {
+            "word": "hello",
+            "phonetics": [
+                {
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75797336",
+                    "license": {
+                        "name": "BY-SA 4.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                },
+                {
+                    "text": "/həˈləʊ/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021983",
+                    "license": {
+                        "name": "BY 3.0 US",
+                        "url": "https://creativecommons.org/licenses/by/3.0/us"
+                    }
+                },
+                {
+                    "text": "/həˈloʊ/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "\"Hello!\" or an equivalent greeting."
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To greet with \"hello\"."
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeech": "interjection",
+                    "definitions": [
+                        {
+                            "definition": "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.",
+                            "example": "Hello, everyone."
+                        },
+                        {
+                            "definition": "A greeting used when answering the telephone.",
+                            "example": "Hello? How may I help you?"
+                        },
+                        {
+                            "definition": "A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.",
+                            "example": "Hello? Is anyone there?"
+                        },
+                        {
+                            "definition": "Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.",
+                            "example": "You just tried to start your car with your cell phone. Hello?"
+                        },
+                        {
+                            "definition": "An expression of puzzlement or discovery.",
+                            "example": "Hello! What’s going on here?"
+                        }
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/hello"
+            ]
+        },
+        {
+            "word": "cope",
+            "phonetic": "/kəʊp/",
+            "phonetics": [
+                {
+                    "text": "/kəʊp/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cope-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=86872995",
+                    "license": {
+                        "name": "BY-SA 4.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To deal effectively with something, especially if difficult.",
+                            "example": "I thought I would never be able to cope with life after the amputation, but I have learned how to be happy again."
+                        },
+                        {
+                            "definition": "To cut and form a mitred joint in wood or metal."
+                        },
+                        {
+                            "definition": "To clip the beak or talons of a bird."
+                        }
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/cope"
+            ]
+        },
+        {
+            "word": "cope",
+            "phonetic": "/kəʊp/",
+            "phonetics": [
+                {
+                    "text": "/kəʊp/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cope-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=86872995",
+                    "license": {
+                        "name": "BY-SA 4.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "A long, loose cloak worn by a priest, deacon, or bishop when presiding over a ceremony other than the Mass."
+                        },
+                        {
+                            "definition": "Any covering such as a canopy or a mantle."
+                        },
+                        {
+                            "definition": "The vault or canopy of the skies, heavens etc."
+                        },
+                        {
+                            "definition": "A covering piece on top of a wall exposed to the weather, usually made of metal, masonry, or stone, and sloped to carry off water."
+                        },
+                        {
+                            "definition": "(foundry) The top part of a sand casting mold."
+                        },
+                        {
+                            "definition": "An ancient tribute due to the lord of the soil, out of the lead mines in Derbyshire, England."
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To cover (a joint or structure) with coping."
+                        },
+                        {
+                            "definition": "To form a cope or arch; to bend or arch; to bow."
+                        }
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/cope"
+            ]
+        },
+        {
+            "word": "cope",
+            "phonetic": "/kəʊp/",
+            "phonetics": [
+                {
+                    "text": "/kəʊp/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cope-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=86872995",
+                    "license": {
+                        "name": "BY-SA 4.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To bargain for; to buy."
+                        },
+                        {
+                            "definition": "To exchange or barter."
+                        },
+                        {
+                            "definition": "To make return for; to requite; to repay."
+                        },
+                        {
+                            "definition": "To match oneself against; to meet; to encounter."
+                        },
+                        {
+                            "definition": "To encounter; to meet; to have to do with."
+                        }
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/cope"
+            ]
+        },
+        {
+            "word": "see",
+            "phonetic": "/siː/",
+            "phonetics": [
+              {
+                "text": "/siː/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/see-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=545616",
+                "license": {
+                  "name": "BY-SA 3.0",
+                  "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+              }
+            ],
+            "meanings": [
+              {
+                "partOfSpeech": "verb",
+                "definitions": [
+                  {
+                    "definition": "(stative) To perceive or detect with the eyes, or as if by sight."
+                  },
+                  {
+                    "definition": "To form a mental picture of."
+                  },
+                  {
+                    "definition": "(social) To meet, to visit."
+                  },
+                  {
+                    "definition": "To be the setting or time of.",
+                    "example": "1999 saw the release of many great films."
+                  },
+                  {
+                    "definition": "(by extension) To ensure that something happens, especially while witnessing it.",
+                    "example": "I'll see you hang for this!  I saw that they didn't make any more trouble."
+                  },
+                  {
+                    "definition": "To wait upon; attend, escort.",
+                    "example": "I saw the old lady safely across the road."
+                  },
+                  {
+                    "definition": "To respond to another player's bet with a bet of equal value.",
+                    "example": "I'll see your twenty dollars and raise you ten."
+                  },
+                  {
+                    "definition": "To determine by trial or experiment; to find out (if or whether).",
+                    "example": "I'll come over later and see if I can fix your computer."
+                  },
+                  {
+                    "definition": "(used in the imperative) To reference or to study for further details.",
+                    "example": "For a complete proof of the Poincaré conjecture, see Appendix C."
+                  },
+                  {
+                    "definition": "To examine something closely, or to utilize something, often as a temporary alternative.",
+                    "example": "Can I see that lighter for a second? Mine just quit working."
+                  },
+                  {
+                    "definition": "To include as one of something's experiences.",
+                    "example": "The equipment has not seen usage outside of our projects."
+                  }
+                ]
+              },
+              {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                  {
+                    "definition": "Directing the audience to pay attention to the following",
+                    "synonyms": [
+                      "behold",
+                      "look"
+                    ],
+                    "example": "See here, fellas, there's no need for all this rucus!"
+                  },
+                  {
+                    "definition": "Introducing an explanation",
+                    "synonyms": [
+                      "look",
+                      "so",
+                      "well"
+                    ],
+                    "example": "See, in order to win the full prize we would have to come up with a scheme to land a rover on the Moon."
+                  }
+                ]
+              }
+            ],
+            "license": {
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+              "https://en.wiktionary.org/wiki/see"
+            ]
+          },
+          {
+            "word": "see",
+            "phonetic": "/siː/",
+            "phonetics": [
+              {
+                "text": "/siː/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/see-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=545616",
+                "license": {
+                  "name": "BY-SA 3.0",
+                  "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+              }
+            ],
+            "meanings": [
+              {
+                "partOfSpeech": "noun",
+                "definitions": [
+                  {
+                    "definition": "A diocese, archdiocese; a region of a church, generally headed by a bishop, especially an archbishop."
+                  },
+                  {
+                    "definition": "The office of a bishop or archbishop; bishopric or archbishopric"
+                  },
+                  {
+                    "definition": "A seat; a site; a place where sovereign power is exercised."
+                  }
+                ]
+              }
+            ],
+            "license": {
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+              "https://en.wiktionary.org/wiki/see"
+            ]
+          }
+    ]
+}
