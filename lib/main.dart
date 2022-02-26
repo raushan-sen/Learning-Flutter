@@ -1,5 +1,6 @@
 import 'package:cause_words/screens/homepage.dart';
 import 'package:cause_words/screens/login_page.dart';
+import 'package:cause_words/utils/appbar.dart';
 import 'package:cause_words/utils/util.dart';
 import 'package:flutter/material.dart';
 
@@ -13,14 +14,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      themeMode: ThemeMode.light,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.green
-      ),
-      darkTheme: ThemeData(
-        brightness: Brightness.dark
-      ),
+      themeMode: ThemeMode.light,
+      theme: MyThemes.lighttheme(context),
+      darkTheme: MyThemes.darkhteme(context),
       initialRoute:MyWord.home,
       routes: {
         MyWord.home:(context) => const HomePage(),

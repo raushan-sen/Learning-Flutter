@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../utils/util.dart';
 
+// * Login page
+
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
 
@@ -38,7 +40,8 @@ class _LoginPageState extends State<LoginPage> {
             children: [
               Image.asset(
                 'static/images/welcome.png',
-                fit: BoxFit.fitHeight,
+                width: 300,
+                height: 300,
               ),
               Text(
                 "Welcome To Cause Words",

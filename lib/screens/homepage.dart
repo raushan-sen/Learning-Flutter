@@ -8,7 +8,8 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: const Text('Caused Words')),
+      appBar: AppBar(centerTitle: true,
+       title: const Text('Caused Words',style: TextStyle(color: Colors.black),)),
       drawer: const OurDrawer(),
       body: Center(
           // ignore: avoid_unnecessary_containers
